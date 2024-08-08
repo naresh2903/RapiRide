@@ -2,7 +2,7 @@
 
 This is a high-level design diagram for a ride booking application similar to Uber. The application allows users to book rides, and drivers to accept and complete rides. The system supports various operations including authentication, ride management, payment, and notification services.
 
-![Ride Booking Application Diagram](static/img.png)
+![Ride Booking Application Diagram](C:\Users\napal\Desktop\TEMPLE_TWIST\RapiRide\src\main\resources\images\img.png)
 
 ## Table of Contents
 
